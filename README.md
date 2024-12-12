@@ -27,29 +27,14 @@ Data profiling figure: Draw.io
 
 **#Data Cleaning**: Draw .io Removing incompatible or incorrect data sets. 
 
- 
+
+
+**Data Pipeline design**: The process of creating a system for moving data from its source to its destination while also transforming and optimizing it. 
 
  
-
  
 
- 
-
-Data Pipeline design: The process of creating a system for moving data from its source to its destination while also transforming and optimizing it. 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Processes using AWS services  
+**Processes using AWS services**  
 
 Step 1: Descriptive analysis question  
 
@@ -78,13 +63,13 @@ ETL: AWS Glue
 
  
 
-System Output: from AWS Glue ETL 
+**System Output**: from AWS Glue ETL 
 
  
 
  
 
-User Output: from AWS Glue ETL 
+**User Output**: from AWS Glue ETL 
 
  
  
@@ -92,26 +77,11 @@ User Output: from AWS Glue ETL
  
 
  
-
  
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Exploratory analysis: is an analysis approach that identifies general patterns in the data.  
+**Exploratory analysis**: is an analysis approach that identifies general patterns in the data.  
 
 The exploratory question being answered here are: Which location has the highest value of permit issued 
 
@@ -120,31 +90,28 @@ The exploratory question being answered here are: Which location has the highest
  
  
 
-Data ingestion: S3 bucket  
+**Data ingestion**: S3 bucket  
  
 
-Data cleaning: Exploratory data  
- 
-
- 
-
- 
-
-ETL Exploratory question: 
-
+**Data cleaning**: Exploratory data  
  
 
  
 
  
 
-ETL Output system   exploratory question:   
+**ETL Exploratory question**: 
 
  
 
- ETL Output user   exploratory question 
+ 
 
  
 
+**ETL Output system**   exploratory question:   
+
+**ETL Output user**   exploratory question 
+
+ 
  
 
