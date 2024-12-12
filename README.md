@@ -7,25 +7,25 @@
 **#Tools and Technology**: AWS Services- S3, AWS Glue, AWS Glue DataBrew, Cloudwatch
  
 **#Deliverables**: Design and implementation of a data analytic platform 
-DAP design, and implementation Individual work Team member 4(Aigbe James Umole) 
 
  Descriptive analysis involves summarizing and presenting data to provide insight into the dataset's characteristics. 
 
-The question I am looking to answer with the descriptive analysis is the count of building permits issued by blinding types  
+Analyzing building permit issuance by building type
 
-Data ingestion: The process of moving data from unusual places and storing it into one central repository for processing and storing. 
+**#Data ingestion**: The process of moving data from unusual places and storing it in one central repository for processing and storing. 
 
 Data ingestion Figure 1. Draw.io: The components of the diagram include Amazon s3 bucket, where the raw data is stored to be processed.  
 
   
 
-Data profiling: Figure 2: The process of fixing or removing incorrect, incomplete, or duplicate data from a dataset. The AWS services I used was AWS Glue Data brew. 
+**#Data profiling**: 
+Figure 2: The process of fixing or removing incorrect, incomplete, or duplicate data from a dataset. The AWS service used as AWS Glue Data Brew. 
 
 Data profiling figure: Draw.io  
 
  
 
-Data Cleaning: Draw .io Removing incompatible or incorrect data sets. 
+**#Data Cleaning**: Draw .io Removing incompatible or incorrect data sets. 
 
  
 
@@ -35,7 +35,7 @@ Data Cleaning: Draw .io Removing incompatible or incorrect data sets.
 
  
 
-Data Pipeline design: The process of creating a system for moving data from its source to its destination, while also transforming and optimizing it. 
+Data Pipeline design: The process of creating a system for moving data from its source to its destination while also transforming and optimizing it. 
 
  
 
